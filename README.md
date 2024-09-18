@@ -1,4 +1,4 @@
-# Sparkify Data Warehouse and ETL Pipeline
+# Sparkify Data Warehouse and ETL Pipeline (Udacity's Data Engineering Nanodegree Project)
 
 ## Project Overview
 
